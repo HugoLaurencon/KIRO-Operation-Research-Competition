@@ -24,6 +24,6 @@ def create_node0(n, path_node, path_node0):
      
     
 n = 13
-path_node = "/home/quentin/Bureau/KIRO/KIRO/Data/grenoble/nodes.csv"
-path_node0 = "/home/quentin/Bureau/KIRO/KIRO/Data/grenoble/nodes0.csv"
+path_node = "Data/grenoble/nodes.csv"
+path_node0 = "Data/grenoble/nodes0.csv"
 create_node0(n, path_node, path_node0)
