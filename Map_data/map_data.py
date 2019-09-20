@@ -53,6 +53,7 @@ def map_data(path_to_node, path_to_solution):
 
     plt.show()
 
-    path_to_node = "Data/grenoble/nodes.txt"
-    path_to_solution = ""
-    map_data(path_to_node, path_to_solution)
+    
+path_to_node = "Data/grenoble/nodes.txt"
+path_to_solution = "Solutions_grenoble/1991_grenoble.txt"
+map_data(path_to_node, path_to_solution)
