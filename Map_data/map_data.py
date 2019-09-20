@@ -52,3 +52,7 @@ def map_data(path_to_node, path_to_solution):
                 plt.plot([X[int(solution[i][j])], X[int(solution[i][j+1])]], [Y[int(solution[i][j])], Y[int(solution[i][j+1])]], c="r")
 
     plt.show()
+
+    path_to_node = "node_pim.txt"
+    path_to_solution = "
+    map_data(path_to_node, path_to_solution)
